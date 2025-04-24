@@ -18,3 +18,4 @@
 * [Tails](https://tails.net/)
 * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)
 * [CyberChef](https://gchq.github.io/CyberChef/)
+* [Microsoft Activation Scripts](https://massgrave.dev/)
