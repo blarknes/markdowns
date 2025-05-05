@@ -21,10 +21,10 @@
 
 ### search engines
 * [Shodan](https://www.shodan.io/)
-* [urlscan.io] https://urlscan.io/
-* [grep] https://grep.app/
-* [_IntelligenceX] https://intelx.io/
-* [FullHunt] https://fullhunt.io/
-* [CVE Database] https://vulners.com/
-* [greynoise] https://viz.greynoise.io/
-* [wigle.net] https://wigle.net/
+* [urlscan.io] (https://urlscan.io/)
+* [grep] (https://grep.app/)
+* [_IntelligenceX] (https://intelx.io/)
+* [FullHunt] (https://fullhunt.io/)
+* [CVE Database] (https://vulners.com/)
+* [greynoise] (https://viz.greynoise.io/)
+* [wigle.net] (https://wigle.net/)
